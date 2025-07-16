@@ -1,4 +1,4 @@
-# database_demo
+# NOTES
 
 A new Flutter project.
 
